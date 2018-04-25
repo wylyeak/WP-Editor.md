@@ -1,4 +1,4 @@
-# WP Editor.MD
+# WP Editor.md
 
 [![License](https://poser.pugx.org/jaxson-wang/wp-editor.md/license.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
 [![Latest Unstable Version](https://poser.pugx.org/jaxson-wang/wp-editor.md/v/unstable)](https://packagist.org/packages/jaxson-wang/wp-editor.md)
@@ -7,7 +7,7 @@
 
 ![](./Interface-logo.jpg) 
 
-### 下面的版本将要重写，代码太不规范了！
+### 该版本不再维护，请使用主分支版本！
 
 ### [WordPress插件库下载](https://wordpress.org/plugins/wp-editormd)
 

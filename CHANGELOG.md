@@ -2,6 +2,14 @@
 
 ![](https://raw.githubusercontent.com/JaxsonWang/WP-Editor.md/docs/screenshots/Interface-logo.jpg) 
 
+### Version 6.1.3
+
+* 支持 echarts
+* 支持 PlantUML
+* 支持 Graphviz
+* [顺序图](http://bramp.github.io/js-sequence-diagrams/)
+* [流程图](http://adrai.github.io/flowchart.js/)
+
 ### Version 6.1.2
 
 * 修复前端文章跳转编辑器区域的问题
